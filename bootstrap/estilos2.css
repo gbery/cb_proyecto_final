@@ -1,0 +1,30 @@
+.contenedor {
+    background-color: black;
+    height: 200px;
+    }
+    
+    .columna {
+    height: 50px;
+    }
+    .fila {
+    height: 100%;
+    }
+    
+    .azul {
+    background-color: #0984e3;
+    }
+    .amarillo {
+    background-color: #ffeaa7;
+    }
+    .rosa {
+    background-color: #fd79a8;
+    }
+    .verde {
+    background-color: #00b894;
+    }
+    .morado {
+    background-color: #a29bfe;
+    }
+    .rojo {
+    background-color: #d63031;
+    }

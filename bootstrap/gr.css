@@ -1,0 +1,74 @@
+.header {
+    height: 80px;
+    background-color: beige;
+  }
+  
+.logo {
+    /* margin-left: 200px;
+    padding-top: 15px; */
+}
+
+.form {
+    color: grey;
+    box-align: right;
+    margin: 3px;
+
+}
+
+.input_text {
+    color: grey;
+}
+
+
+.navbar {
+    height: 70px;
+}
+
+.masthead {
+    height: 300px;
+}
+
+.contenido {
+    height: 300px;
+    background-color: #dfe6e9;
+}
+.fila {
+    height: 100%;
+}
+.columna {
+    height: 100%;
+}
+.columna-p{
+    height: 30px;
+}
+.pie {
+    height: 100px;
+    background-color: #2d3436;
+}
+
+.azul {
+    background-color: #0984e3;
+}
+.amarillo {
+    background-color: #ffeaa7;
+}
+.rosa {
+    background-color: #fd79a8;
+}
+.verde {
+    background-color: #00b894;
+}
+.morado {
+    background-color: #a29bfe;
+}
+.rojo {
+    background-color: #d63031;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.beige {
+    background-color: beige;
+}

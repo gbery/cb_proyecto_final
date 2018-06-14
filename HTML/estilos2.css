@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* Selector general */
+*{
+    font-family: Robot, sans-serif;
+    /* border: 0.2px solid #333333; */
+}
+
+/* Cambiar color del header */
+h1 {
+    color: #e67e22;
+    padding: 10px 15px 20px 30px;
+    font-family: Roboto, sans-serif;
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+body {
+    border-width: 1px;
+    border-color: orange;
+    border-style: dotted;}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border-width: 1px;
+    border-color: green;
+    border-style: dotted;}
+
+p {
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+#animales {
+    border-width: 10px;
+    border-radius: 4px;
+    border-color: yellowgreen;
+    border-style: solid;
+}
+
+button {
+    background: grey;
+    font-size: 20px;
+    padding: 15px;
+}

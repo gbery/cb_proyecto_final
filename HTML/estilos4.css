@@ -1,0 +1,73 @@
+body {
+    background: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+
+.navbar {
+    padding: 0px 20px;
+}
+
+.navbar img {
+    height: 100px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.title {
+    margin-top: 48px;
+}
+
+.users {
+    display: table;
+    margin: 0px auto;
+}
+
+.user {
+    margin: 0px 12px;
+    display: inline-block;
+
+}
+
+.user img {
+    height: 140px;
+    border: 2px solid black;
+}
+
+.user .name {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 6px;
+    color: grey;
+}
+
+.user:hover img {
+    border: 2px solid white;
+}
+
+.user:hover .name {
+    color: white;
+}
+
+input[type="submit"] {
+    border: 1px solid grey;
+    font-size: 14px;
+    padding: 16px;
+    color: grey;
+    background: none;
+}
+
+.options {
+    text-align: center; 
+    margin-top: 32px;
+}
+
+input[type="submit"]:hover {
+    border-color: white;
+    color: white;
+}

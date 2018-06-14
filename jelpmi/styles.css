@@ -1,0 +1,81 @@
+body {
+    background-color: #9032C8;
+    font-family: sans-serif;
+}
+
+.jelpmi_logo_div {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center
+}
+
+.jelpmi_logo {
+    height: 60px;
+}
+
+.ingresa_text_div {
+    display: flex;
+    justify-content: center
+}
+
+.ingresa_text {
+    margin-top: 50px;
+    font-size: 24px;
+    color: white;
+    flex-wrap: wrap;
+    font: roboto;
+    width: 300px;
+}
+
+.input_div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.input_div form {
+    width: 300px;
+}
+
+.first_input {
+    -webkit-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);    
+    border: none;
+    height: 50px;
+    padding-left: 10px;
+}
+
+.second_input {
+    -webkit-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);    
+    border: none;
+    height: 50px;
+    padding-left: 10px;
+}
+
+.ingresar_button {
+    -webkit-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);    
+    border: none;
+    height: 50px;
+    background-color: #F223C6;
+    color: white;
+    font-weight: bold;
+}
+
+.bottom_text_div {
+    display: flex;
+    justify-content: center
+}
+
+.bottom_text {
+    margin-top: 100px;
+    font-size: 16px;
+    color: white;
+    flex-wrap: wrap;
+    font: roboto;
+    width: 300px;
+}

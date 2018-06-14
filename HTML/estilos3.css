@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+img {
+    display: table;
+    margin: 0px auto;
+    margin-top: 198px;
+
+}
+
+.form {
+    margin-top: 5px;
+}
+
+form {
+    padding: 20px;
+    border-width: 1px;
+    display: table;
+    margin: 0px auto;  
+    width: 43%;
+}
+
+input {
+    width: 100%;
+}
+
+.buttons {
+    display: table;
+    margin: 0px auto;
+}
+
+.button {
+    margin: 0px 12px;
+    display: inline-block;
+
+}

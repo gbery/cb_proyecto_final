@@ -1,0 +1,73 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.bienvenida_div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.bienvenida {
+    margin-top: 50px;
+    font-size: 50px;
+    flex-wrap: wrap;
+    font: roboto;
+    width: 300px;
+    font-weight: 900;
+}
+
+.confirmados_div {
+    background-color: #9032C8;
+    height: 170px;
+    width: 300px;
+    margin: auto;
+    -webkit-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);    
+    border: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+
+}
+
+.confirmados_text {
+    padding-left: 20px;
+    font-size: 24px;
+    color: white;
+}
+
+.servicios_div {
+    background-color: #F223C6;
+    height: 170px;
+    width: 300px;
+    margin: auto;
+    -webkit-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 42px -10px rgba(0,0,0,0.75);    
+    border: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.servicios_text {
+    padding-left: 20px;
+    font-size: 24px;
+    color: white;
+}
+
+.cerrar_div {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    color: #F223C6;
+    font-size: 24px;
+}
+
+.close_link {
+    color: #F223C6;
+}
